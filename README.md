@@ -1,11 +1,5 @@
-## yahello!! 👋
-
-
-
-<h1 align="center">welcome,, my name's imogen,, but you can call me mars :))</h1>
+<h1 align="center">yahello!! 👋 my name's imogen,, but you can call me mars :))</h1>
 <h3 align="center">a second year computer science student at university</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mars-rei&label=Profile%20views&color=0e75b6&style=flat" alt="mars-rei" /> </p>
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
@@ -20,5 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mars-rei&show_icons=true&locale=en" alt="mars-rei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mars-rei&" alt="mars-rei" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mars-rei&label=Profile%20views&color=0e75b6&style=flat" alt="mars-rei" /> </p>
 
 
