@@ -3,9 +3,9 @@
 
 <h3 align="left">repositories currently working on:</h3>
 <ul>
-  <li>freecodecamp</li>
-  <li>summerof25</li>
-  <li>spotifyThemedPortfolio</li>
+  <li><a href="https://github.com/mars-rei/freecodecamp">freecodecamp</a></li>
+  <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
+  <li><a href="https://github.com/mars-rei/spotifyThemedPortfolio">spotifyThemedPortfolio</a></li>
 </ul>
 
 <h3 align="left">technologies currently learning and developing:</h3>
@@ -20,11 +20,11 @@
 
 <h3 align="left">completed and archived repositories:</h3>
 <ul>
-  <li>CompClub Hub</li>
-  <li>mastermind</li>
-  <li>BookBot</li>
-  <li>IM-SwissGambit</li>
-  <li>flight system</li>
+  <li><a href="https://github.com/mars-rei/CompClub-Hub">CompClub Hub</a></li>
+  <li><a href="https://github.com/mars-rei/mastermind">mastermind</a></li>
+  <li><a href="https://github.com/mars-rei/BookBot">BookBot</a></li>
+  <li><a href="https://github.com/mars-rei/IM-SwissGambit">IM SwissGambit</a></li>
+  <li><a href="https://github.com/mars-rei/flight-system">flight system</a></li>
 </ul>
 
 <h3 align="left">languages and tools:</h3>
