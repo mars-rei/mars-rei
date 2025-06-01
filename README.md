@@ -6,6 +6,7 @@
   <li><a href="https://github.com/mars-rei/freecodecamp">freecodecamp</a></li>
   <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
   <li><a href="https://github.com/mars-rei/spotifyThemedPortfolio">spotifyThemedPortfolio</a></li>
+  <li><a href="https://github.com/mars-rei/fireonmarz">fireonmarz</li>
 </ul>
 
 <h3 align="left">technologies currently learning and developing:</h3>
