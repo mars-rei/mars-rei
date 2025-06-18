@@ -7,7 +7,7 @@
   <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
   <li><a href="https://github.com/mars-rei/spotifyThemedPortfolio">spotifyThemedPortfolio</a></li>
   <li><a href="https://github.com/mars-rei/fireonmarz">fireonmarz</li>
-  <li><a href="https://github.com/mars-rei/random-lyric-generator"></li>
+  <li><a href="https://github.com/mars-rei/random-lyric-generator">random lyric generator</li>
 </ul>
 
 <h3 align="left">technologies currently learning and developing:</h3>
