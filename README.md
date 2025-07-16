@@ -1,5 +1,5 @@
 <h1 align="center">yahello!! 👋 my name's imogen,, but you can call me mars :))</h1>
-<h3 align="center">a second year compsci student with current interests in UX/UI design, full-stack web development & data science</h3>
+<h3 align="center">a second year compsci student with current interests in UX/UI design, full-stack web development & data engineering</h3>
 
 <h3 align="left">repositories currently working on:</h3>
 <ul>
