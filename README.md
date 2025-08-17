@@ -15,8 +15,7 @@
   <li>Tailwind CSS</li>
   <li>React</li>
   <li>SQL & PostgreSQL</li>
-  <li>Pandas</li>
-  <li>Seaborn</li>
+  <li>JavaScript</li>
 </ul>
 
 <h3 align="left">completed and archived repositories:</h3>
