@@ -3,8 +3,9 @@
 
 <h3 align="left">repositories currently working on:</h3>
 <ul>
+  <li><a href="">reactSpotifyThemedPortfolio</a></li>
+  <li><a href="">pinterestThemedScrapbook</a></li>
   <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
-  <li><a href="https://github.com/mars-rei/spotifyThemedPortfolio">spotifyThemedPortfolio</a></li>
   <li><a href="https://github.com/mars-rei/fireonmarz">fireonmarz</li>
   <li><a href="https://github.com/mars-rei/random-lyric-generator">random lyric generator</li>
 </ul>
@@ -20,11 +21,12 @@
 
 <h3 align="left">completed and archived repositories:</h3>
 <ul>
-  <li><a href="https://github.com/mars-rei/CompClub-Hub">CompClub Hub</a></li>
+  <li><a href="https://github.com/mars-rei/spotifyThemedPortfolio">spotifyThemedPortfolio</a></li>
   <li><a href="https://github.com/mars-rei/mastermind">mastermind</a></li>
+  <li><a href="https://github.com/mars-rei/CompClub-Hub">CompClub Hub</a></li>
+  <li><a href="https://github.com/mars-rei/flight-system">flight system</a></li>
   <li><a href="https://github.com/mars-rei/BookBot">BookBot</a></li>
   <li><a href="https://github.com/mars-rei/IM-SwissGambit">IM SwissGambit</a></li>
-  <li><a href="https://github.com/mars-rei/flight-system">flight system</a></li>
 </ul>
 
 <h3 align="left">languages and tools:</h3>
