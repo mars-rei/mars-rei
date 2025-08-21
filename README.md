@@ -3,7 +3,7 @@
 
 <h3 align="left">repositories currently working on:</h3>
 <ul>
-  <li><a href="">reactSpotifyThemedPortfolio</a></li>
+  <li><a href="https://github.com/mars-rei/reactSpotifyThemedPortfolio">reactSpotifyThemedPortfolio</a></li>
   <li><a href="">pinterestThemedScrapbook</a></li>
   <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
   <li><a href="https://github.com/mars-rei/fireonmarz">fireonmarz</li>
