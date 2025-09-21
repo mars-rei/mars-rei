@@ -4,7 +4,6 @@
 <h3 align="left">repositories currently working on:</h3>
 <ul>
   <li><a href="https://github.com/mars-rei/pinterestThemedScrapbook">pinterestThemedScrapbook</a></li>
-  <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
   <li><a href="https://github.com/mars-rei/fireonmarz">fireonmarz</li>
   <li><a href="https://github.com/mars-rei/random-lyric-generator">random lyric generator</li>
 </ul>
@@ -20,6 +19,7 @@
 
 <h3 align="left">completed and archived repositories:</h3>
 <ul>
+  <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
   <li><a href="https://github.com/mars-rei/reactSpotifyThemedPortfolio">reactSpotifyThemedPortfolio</a></li>
   <li><a href="https://github.com/mars-rei/spotifyThemedPortfolio">spotifyThemedPortfolio</a></li>
   <li><a href="https://github.com/mars-rei/mastermind">mastermind</a></li>
