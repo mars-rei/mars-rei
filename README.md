@@ -3,6 +3,7 @@
 
 <h3 align="left">repositories currently working on:</h3>
 <ul>
+  <li><a href="https://github.com/mars-rei/spotifyThemedMusicPlayer">spotifyThemedMusicPlayer</a></li>
   <li><a href="https://github.com/mars-rei/pinterestThemedScrapbook">pinterestThemedScrapbook</a></li>
   <li><a href="https://github.com/mars-rei/fireonmarz">fireonmarz</li>
   <li><a href="https://github.com/mars-rei/random-lyric-generator">random lyric generator</li>
