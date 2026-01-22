@@ -25,6 +25,7 @@
 
 <h3 align="left">completed and archived repositories:</h3>
 <ul>
+  <li><a href="https://github.com/mars-rei/predictiveModellingSpotifySongPopularity">predictiveModellingSpotifySongPopularity</a></li>
   <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
   <li><a href="https://github.com/mars-rei/reactSpotifyThemedPortfolio">reactSpotifyThemedPortfolio</a></li>
   <li><a href="https://github.com/mars-rei/spotifyThemedPortfolio">spotifyThemedPortfolio</a></li>
