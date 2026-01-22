@@ -4,7 +4,7 @@
 <h3 align="left">repositories currently working on:</h3>
 <ul>
   <li><a href="https://github.com/mars-rei/portfoliohub">portfoliohub</a></li>
-  <li>
+  <li style='none'>
     <ul>
       <li><a href="https://github.com/mars-rei/carouselPortfolioHub">carouselPortfolioHub</a></li>
       <li><a href="https://github.com/mars-rei/sliderPortfolioHub">sliderPortfolioHub</a></li>
