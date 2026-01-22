@@ -4,15 +4,13 @@
 <h3 align="left">repositories currently working on:</h3>
 <ul>
   <li><a href="https://github.com/mars-rei/portfoliohub">portfoliohub</a></li>
-  <li style='none'>
-    <ul>
-      <li><a href="https://github.com/mars-rei/carouselPortfolioHub">carouselPortfolioHub</a></li>
-      <li><a href="https://github.com/mars-rei/sliderPortfolioHub">sliderPortfolioHub</a></li>
-      <li><a href="https://github.com/mars-rei/colourPickerPortfolioHub">colourPickerPortfolioHub</a></li>
-      <li><a href="https://github.com/mars-rei/canvasPortfolioHub">canvasPortfolioHub</a></li>
-      <li><a href="https://github.com/mars-rei/drag-dropPortfolioHub">drag-dropPortfolioHub</a></li>
-    </ul>
-  </li>
+  <ul>
+    <li><a href="https://github.com/mars-rei/carouselPortfolioHub">carouselPortfolioHub</a></li>
+    <li><a href="https://github.com/mars-rei/sliderPortfolioHub">sliderPortfolioHub</a></li>
+    <li><a href="https://github.com/mars-rei/colourPickerPortfolioHub">colourPickerPortfolioHub</a></li>
+    <li><a href="https://github.com/mars-rei/canvasPortfolioHub">canvasPortfolioHub</a></li>
+    <li><a href="https://github.com/mars-rei/drag-dropPortfolioHub">drag-dropPortfolioHub</a></li>
+  </ul>
 </ul>
 
 <h3 align="left">technologies currently learning and developing:</h3>
