@@ -18,7 +18,7 @@
   <li>Alpine.js</li>
   <li>Tailwind CSS</li>
   <li>React</li>
-  <li>SQL & PostgreSQL</li>
+  <li>SQL</li>
   <li>JavaScript</li>
   <li>PHP with Laravel</li>
 </ul>
