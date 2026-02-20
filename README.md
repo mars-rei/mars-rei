@@ -1,8 +1,5 @@
-<h1 align="center">yahello!! 👋 my name's imogen,, but you can call me mars :))</h1>
-<h3 align="center">a third year compsci student with current interests in UX/UI design, front-end web development & data engineering</h3>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mars-rei&" alt="mars-rei" /></p>
+<h1>yahello!! 👋 my name's imogen,, but you can call me mars :))</h1>
+<h3>a third year compsci student with current interests in UX/UI design, front-end web development & data engineering</h3>
 <br>
 
 
@@ -47,25 +44,5 @@
 <br>
 
 
-<h3 align="left">completed and archived repositories:</h3>
-<ul>
-  <li><a href="https://github.com/mars-rei/predictiveModellingSpotifySongPopularity">predictiveModellingSpotifySongPopularity</a></li>
-  <li><a href="https://github.com/mars-rei/summerof25">summerof25</a></li>
-  <li><a href="https://github.com/mars-rei/reactSpotifyThemedPortfolio">reactSpotifyThemedPortfolio</a></li>
-  <li><a href="https://github.com/mars-rei/spotifyThemedPortfolio">spotifyThemedPortfolio</a></li>
-  <li><a href="https://github.com/mars-rei/mastermind">mastermind</a></li>
-  <li><a href="https://github.com/mars-rei/CompClub-Hub">CompClub Hub</a></li>
-  <li><a href="https://github.com/mars-rei/flight-system">flight system</a></li>
-  <li><a href="https://github.com/mars-rei/BookBot">BookBot</a></li>
-  <li><a href="https://github.com/mars-rei/IM-SwissGambit">IM SwissGambit</a></li>
-</ul>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mars-rei&" alt="mars-rei" /></p>
 <br>
-
-
-<h3 align="left">repositories on hold:</h3>
-<ul>
-  <li><a href="https://github.com/mars-rei/spotifyThemedMusicPlayer">spotifyThemedMusicPlayer</a></li>
-  <li><a href="https://github.com/mars-rei/pinterestThemedScrapbook">pinterestThemedScrapbook</a></li>
-  <li><a href="https://github.com/mars-rei/fireonmarz">fireonmarz</li>
-  <li><a href="https://github.com/mars-rei/random-lyric-generator">random lyric generator</li>
-</ul>
