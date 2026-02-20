@@ -25,7 +25,7 @@
 
 <h4 align="left">The Green Room (but slightly functional) - mobile and wearable application development</h4>
 <ul>
-  <li><a href="">repository pending...</a></li>
+  <li>repository pending...</li>
 </ul>
 <br>
 
