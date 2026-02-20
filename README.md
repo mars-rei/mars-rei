@@ -30,17 +30,28 @@
 <br>
 
 
-<h3 align="left">technologies currently learning and developing:</h3>
-<ul>
-  <li>Alpine.js</li>
-  <li>Tailwind CSS</li>
-  <li>React</li>
-  <li>SQL</li>
-  <li>JavaScript</li>
-  <li>PHP with Laravel</li>
-</ul>
+<h3 align="left">technologies:</h3>
+<h4 align="left">front-end</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=alpinejs,css,html,js,jquery,react,tailwind" />
+  </a>
+</p>
+
+<h4 align="left">back-end</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,laravel,php,postgres,py" />
+  </a>
+</p>
+
+<h4 align="left">tools and software</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,github,supabase,vercel,vite,vscode" />
+  </a>
+</p>
 <br>
 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mars-rei&" alt="mars-rei" /></p>
-<br>
