@@ -16,14 +16,12 @@
     <li><a href="https://github.com/mars-rei/drag-dropPortfolioHub">drag-dropPortfolioHub</a></li>
   </ul>
 </ul>
-<br>
 
 <h4 align="left">app name pending... - cloud computing</h4>
 <ul>
   <li><a href="https://github.com/mars-rei/cloudComputingApp">cloudComputingApp</a></li>
   <li><a href="https://github.com/mars-rei/reactInertiaLaravelDemo">reactInertiaLaravelDemo</a></li>
 </ul>
-<br>
 
 <h4 align="left">The Green Room (but slightly functional) - mobile and wearable application development</h4>
 <ul>
