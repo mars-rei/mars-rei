@@ -10,10 +10,8 @@
   <ul>
     <li><a href="https://github.com/mars-rei/mediaUploadCloudinaryPortfolioHub">mediaUploadCloudinaryPortfolioHub</a></li>
     <li><a href="https://github.com/mars-rei/carouselPortfolioHub">carouselPortfolioHub</a></li>
-    <li><a href="https://github.com/mars-rei/sliderPortfolioHub">sliderPortfolioHub</a></li>
+    <li><a href="https://github.com/mars-rei/slidesPortfolioHub">slidesPortfolioHub</a></li>
     <li><a href="https://github.com/mars-rei/colourPickerPortfolioHub">colourPickerPortfolioHub</a></li>
-    <li><a href="https://github.com/mars-rei/canvasPortfolioHub">canvasPortfolioHub</a></li>
-    <li><a href="https://github.com/mars-rei/drag-dropPortfolioHub">drag-dropPortfolioHub</a></li>
   </ul>
 </ul>
 
