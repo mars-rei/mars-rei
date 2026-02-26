@@ -11,7 +11,6 @@
     <li><a href="https://github.com/mars-rei/mediaUploadCloudinaryPortfolioHub">mediaUploadCloudinaryPortfolioHub</a></li>
     <li><a href="https://github.com/mars-rei/carouselPortfolioHub">carouselPortfolioHub</a></li>
     <li><a href="https://github.com/mars-rei/slidesPortfolioHub">slidesPortfolioHub</a></li>
-    <li><a href="https://github.com/mars-rei/colourPickerPortfolioHub">colourPickerPortfolioHub</a></li>
   </ul>
 </ul>
 
