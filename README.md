@@ -8,9 +8,10 @@
 <ul>
   <li><a href="https://github.com/mars-rei/portfoliohub">portfoliohub</a></li>
   <ul>
-    <li><a href="https://github.com/mars-rei/mediaUploadCloudinaryPortfolioHub">mediaUploadCloudinaryPortfolioHub</a></li>
-    <li><a href="https://github.com/mars-rei/carouselPortfolioHub">carouselPortfolioHub</a></li>
-    <li><a href="https://github.com/mars-rei/slidesPortfolioHub">slidesPortfolioHub</a></li>
+    <li><a href="https://github.com/mars-rei/canvasFrontendPortfolioHub">frontend - builder and canvas</a></li>
+    <li><a href="https://github.com/mars-rei/carouselPortfolioHub">component - carousel</a></li>
+    <li><a href="https://github.com/mars-rei/slidesPortfolioHub">component - slides</a></li>
+    <li><a href="https://github.com/mars-rei/mediaUploadCloudinaryPortfolioHub">backend - testing media uploads to cloudinary</a></li>
   </ul>
 </ul>
 
