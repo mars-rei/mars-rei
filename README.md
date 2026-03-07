@@ -23,7 +23,7 @@
 
 <h4 align="left">The Green Room (but slightly functional) - mobile and wearable application development</h4>
 <ul>
-  <li>repository pending...</li>
+  <li><a href="https://github.com/mars-rei/theGreenRoomJava">The Green Room in Java</a></li>
 </ul>
 <br>
 
