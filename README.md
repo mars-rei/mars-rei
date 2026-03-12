@@ -15,13 +15,13 @@
   </ul>
 </ul>
 
-<h4 align="left">app name pending... - cloud computing</h4>
+<h4 align="left">TalkToMe - cloud computing</h4>
 <ul>
-  <li><a href="https://github.com/mars-rei/cloudComputingApp">cloudComputingApp</a></li>
+  <li><a href="https://github.com/mars-rei/talkToMe">talkToMe</a></li>
   <li><a href="https://github.com/mars-rei/reactInertiaLaravelDemo">reactInertiaLaravelDemo</a></li>
 </ul>
 
-<h4 align="left">The Green Room (but slightly functional) - mobile and wearable application development</h4>
+<h4 align="left">The Green Room - mobile and wearable application development</h4>
 <ul>
   <li><a href="https://github.com/mars-rei/theGreenRoomJava">The Green Room in Java</a></li>
 </ul>
