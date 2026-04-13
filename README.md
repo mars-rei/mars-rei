@@ -7,18 +7,11 @@
 <h4 align="left">PortfolioHub - final year project</h4>
 <ul>
   <li><a href="https://github.com/mars-rei/portfoliohub">portfoliohub</a></li>
-  <ul>
-    <li><a href="https://github.com/mars-rei/canvasFrontendPortfolioHub">frontend - builder and canvas</a></li>
-    <li><a href="https://github.com/mars-rei/carouselPortfolioHub">component - carousel</a></li>
-    <li><a href="https://github.com/mars-rei/slidesPortfolioHub">component - slides</a></li>
-    <li><a href="https://github.com/mars-rei/mediaUploadCloudinaryPortfolioHub">backend - testing media uploads to cloudinary</a></li>
-  </ul>
 </ul>
 
 <h4 align="left">TalkToMe - cloud computing</h4>
 <ul>
   <li><a href="https://github.com/mars-rei/talkToMe">talkToMe</a></li>
-  <li><a href="https://github.com/mars-rei/reactInertiaLaravelDemo">reactInertiaLaravelDemo</a></li>
 </ul>
 
 <h4 align="left">The Green Room - mobile and wearable application development</h4>
