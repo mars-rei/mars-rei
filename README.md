@@ -1,6 +1,5 @@
 <h1>yahello!! 👋 my name's imogen,, but you can call me mars :))</h1>
 <h3>a third year compsci student with current interests in UX/UI design, front-end web development & data engineering</h3>
-<br>
 
 <h3 align="left">technologies:</h3>
 <h4 align="left">front-end</h4>
