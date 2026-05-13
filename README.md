@@ -2,25 +2,6 @@
 <h3>a third year compsci student with current interests in UX/UI design, front-end web development & data engineering</h3>
 <br>
 
-
-<h3 align="left">repositories currently working on:</h3>
-<h4 align="left">PortfolioHub - final year project</h4>
-<ul>
-  <li><a href="https://github.com/mars-rei/portfoliohub">portfoliohub</a></li>
-</ul>
-
-<h4 align="left">TalkToMe - cloud computing</h4>
-<ul>
-  <li><a href="https://github.com/mars-rei/talkToMe">talkToMe</a></li>
-</ul>
-
-<h4 align="left">The Green Room - mobile and wearable application development</h4>
-<ul>
-  <li><a href="https://github.com/mars-rei/theGreenRoomJava">The Green Room in Java</a></li>
-</ul>
-<br>
-
-
 <h3 align="left">technologies:</h3>
 <h4 align="left">front-end</h4>
 <p align="left">
