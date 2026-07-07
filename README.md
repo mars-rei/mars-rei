@@ -1,5 +1,5 @@
 <h1>yahello!! 👋 my name's imogen,, but you can call me mars :))</h1>
-<h3>a third year compsci student with current interests in UX/UI design and engineering</h3>
+<h3>an incoming msc ux design student with a bsc in computer science. has current interests in ux/ui design and engineering</h3>
 
 <h3 align="left">technologies:</h3>
 <h4 align="left">front-end</h4>
