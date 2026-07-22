@@ -1,6 +1,16 @@
 <h1>yahello!! 👋 my name's imogen,, but you can call me mars :))</h1>
 <h3>an incoming msc ux design student with a bsc in computer science. has current interests in ux/ui design and engineering</h3>
 
+<h3 align="left">currently working on this summer:</h3>
+<ul>
+<li align="left">
+  <h4><a href="https://github.com/mars-rei/portfoliohub">portfoliohub</a></h4>~ improving and adding more features to my bsc compsci final project
+</li>
+<li align="left">
+  <h4><a href="https://github.com/mars-rei/tomodachiLifeThemedPortfolio">tomodachiLifeThemedPortfolio</a></h4>~ adding another theme to my portfolio, like last summer's spotify themed portfolio
+</li>
+</ul>
+
 <h3 align="left">technologies:</h3>
 <h4 align="left">front-end</h4>
 <p align="left">
