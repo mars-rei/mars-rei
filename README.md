@@ -4,10 +4,13 @@
 <h3 align="left">currently working on this summer:</h3>
 <ul>
 <li align="left">
-  <h4><a href="https://github.com/mars-rei/portfoliohub">portfoliohub</a></h4>~ improving and adding more features to my bsc compsci final project
+  <h4><a href="https://github.com/mars-rei/tomodachiLifeThemedPortfolio">tomodachiLifeThemedPortfolio</a></h4>~ adding another theme to my portfolio, like last summer's spotify themed portfolio
 </li>
 <li align="left">
-  <h4><a href="https://github.com/mars-rei/tomodachiLifeThemedPortfolio">tomodachiLifeThemedPortfolio</a></h4>~ adding another theme to my portfolio, like last summer's spotify themed portfolio
+  <h4><a href="https://github.com/mars-rei/marsReiPortfolio">marsReiPortfolio</a></h4>~ merging both my themed portfolios into one official toggable-themed portfolio
+</li>
+<li align="left">
+  <h4><a href="https://github.com/mars-rei/crumbsBakes">crumbsBakes</a></h4>~ designing and developing a website for a small business who sells baked goods
 </li>
 </ul>
 
